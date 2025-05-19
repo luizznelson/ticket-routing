@@ -4,9 +4,9 @@ Este projeto simula e implementa um sistema de triagem inteligente para tickets 
 
 ## 📌 **Demonstração do projeto**
 
-![Demo 1 do Dashboard](imgs/demo1.png)
-![Demo 2 do Dashboard](imgs/demo2.png)
-![Demo 3 do Dashboard](imgs/demo3.png)
+![Demo 1 do Dashboard](./imgs/demo1.png)
+![Demo 2 do Dashboard](./imgs/demo2.png)
+![Demo 3 do Dashboard](./imgs/demo3.png)
 
 ---
 
